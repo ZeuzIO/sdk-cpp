@@ -7,6 +7,7 @@ This is the offical Rest API implementation in C++ for the Zeuz.io platform.
 ### Required dependencies
 - libcurl (http://www.curlpp.org/)
 - jsoncpp (https://github.com/open-source-parsers/jsoncpp)
+- openssl (https://www.openssl.org/source/)
 
 ### Documentation
 
